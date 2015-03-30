@@ -1,0 +1,5 @@
+c:\users\назар\documents\visual studio 2012\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+c:\users\назар\documents\visual studio 2012\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+c:\users\назар\documents\visual studio 2012\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+c:\users\назар\documents\visual studio 2012\Projects\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+c:\users\назар\documents\visual studio 2012\Projects\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb

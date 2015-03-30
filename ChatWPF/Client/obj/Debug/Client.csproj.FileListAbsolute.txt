@@ -1,0 +1,12 @@
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\bin\Debug\Client.exe.config
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\bin\Debug\Client.exe
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\bin\Debug\Client.pdb
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\MainWindow.baml
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\App.g.cs
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\Client.g.resources
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\Client.exe
+C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\Client.pdb

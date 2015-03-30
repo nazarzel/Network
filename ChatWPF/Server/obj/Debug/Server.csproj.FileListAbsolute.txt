@@ -1,0 +1,13 @@
+c:\Users\user\documents\visual studio 2012\Projects\ChatWPF\Server\bin\Debug\Server.exe.config
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\bin\Debug\Server.exe.config
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\bin\Debug\Server.exe
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\bin\Debug\Server.pdb
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\obj\Debug\MainWindow.baml
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\obj\Debug\MainWindow.g.cs
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\obj\Debug\App.g.cs
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\obj\Debug\Server.g.resources
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\obj\Debug\Server.exe
+C:\Users\Назар\Downloads\Projects\ChatWPF\Server\obj\Debug\Server.pdb

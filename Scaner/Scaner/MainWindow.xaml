@@ -1,0 +1,19 @@
+﻿<Window x:Class="Scaner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Width="560" Height="350">
+    <Grid>
+        <ListBox Name="ListBoxPorts" HorizontalAlignment="Left" Height="240" Margin="10,69,0,0" VerticalAlignment="Top" Width="532"/>
+        <TextBox Name="IPVal" HorizontalAlignment="Left" Height="23" Margin="65,41,0,0" TextWrapping="Wrap" Text="194.44.93.225" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="MinVal" HorizontalAlignment="Left" Height="23" Margin="245,41,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="55"/>
+        <TextBox Name="MaxVal" HorizontalAlignment="Left" Height="23" Margin="330,41,0,0" TextWrapping="Wrap" Text="25" VerticalAlignment="Top" Width="55"/>
+        <Label Content="IP:" HorizontalAlignment="Left" Margin="37,41,0,0" VerticalAlignment="Top"/>
+        <Label Content="From:" HorizontalAlignment="Left" Margin="200,38,0,0" VerticalAlignment="Top"/>
+        <Label Content="To:" HorizontalAlignment="Left" Margin="304,38,0,0" VerticalAlignment="Top"/>
+        <Button  Content="Старт" HorizontalAlignment="Left" Margin="390,41,0,0" VerticalAlignment="Top" Width="152" MouseDown="Button_MouseDown_1"/>
+
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Server.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        Closed="Window_Closed_1">
+    <Grid>
+        <Button Content="Старт" HorizontalAlignment="Left" Margin="432,289,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="Button_Click_1"/>
+        <TextBox Name="IpVol" HorizontalAlignment="Left" Height="23" Margin="48,289,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"/>
+        <TextBox Name="PortVol" HorizontalAlignment="Left" Height="23" Margin="267,289,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"/>
+        <Label Content="IP:" HorizontalAlignment="Left" Margin="20,289,0,0" VerticalAlignment="Top"/>
+        <Label Content="Port:" HorizontalAlignment="Left" Margin="227,288,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="messageList" HorizontalAlignment="Left" Height="273" Margin="10,10,0,0" VerticalAlignment="Top" Width="497"/>
+
+    </Grid>
+</Window>
