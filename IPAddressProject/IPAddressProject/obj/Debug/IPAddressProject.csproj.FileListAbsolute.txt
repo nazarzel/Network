@@ -1,0 +1,21 @@
+C:\Users\Denis\Desktop\IPAddressProject\IPAddressProject\bin\Debug\IPAddressProject.exe.config
+C:\Users\Denis\Desktop\IPAddressProject\IPAddressProject\bin\Debug\IPAddressProject.exe
+C:\Users\Denis\Desktop\IPAddressProject\IPAddressProject\bin\Debug\IPAddressProject.pdb
+C:\Users\Denis\Desktop\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.MainForm.resources
+C:\Users\Denis\Desktop\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.Properties.Resources.resources
+C:\Users\Denis\Desktop\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.exe
+C:\Users\Denis\Desktop\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.pdb
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\IPAddressProject\IPAddressProject\bin\Debug\IPAddressProject.exe.config
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.exe
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.pdb
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.MainForm.resources
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.Properties.Resources.resources
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.csproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\IPAddressProject\IPAddressProject\bin\Debug\IPAddressProject.exe
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\IPAddressProject\IPAddressProject\bin\Debug\IPAddressProject.pdb
+C:\Users\Назар\Desktop\код\IPAddressProject\IPAddressProject\bin\Debug\IPAddressProject.exe.config
+C:\Users\Назар\Desktop\код\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.exe
+C:\Users\Назар\Desktop\код\IPAddressProject\IPAddressProject\obj\Debug\IPAddressProject.pdb

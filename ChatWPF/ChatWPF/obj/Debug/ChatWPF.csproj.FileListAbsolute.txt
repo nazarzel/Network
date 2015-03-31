@@ -1,1 +1,14 @@
 c:\users\user\documents\visual studio 2012\Projects\ChatWPF\ChatWPF\bin\Debug\ChatWPF.exe.config
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\bin\Debug\ChatWPF.exe.config
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\bin\Debug\ChatWPF.exe
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\bin\Debug\ChatWPF.pdb
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\obj\Debug\ChatWPF.csprojResolveAssemblyReference.cache
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\obj\Debug\MainWindow.baml
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\obj\Debug\App.g.cs
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\obj\Debug\ChatWPF_MarkupCompile.cache
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\obj\Debug\ChatWPF.g.resources
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\obj\Debug\ChatWPF.Properties.Resources.resources
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\obj\Debug\ChatWPF.csproj.GenerateResource.Cache
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\obj\Debug\ChatWPF.exe
+C:\Users\Назар\Desktop\мережеве\ChatWPF\ChatWPF\obj\Debug\ChatWPF.pdb

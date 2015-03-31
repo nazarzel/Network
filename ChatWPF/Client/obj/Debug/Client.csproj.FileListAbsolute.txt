@@ -10,3 +10,6 @@ C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\Client.Propertie
 C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\Client.csproj.GenerateResource.Cache
 C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\Client.exe
 C:\Users\Назар\Downloads\Projects\ChatWPF\Client\obj\Debug\Client.pdb
+C:\Users\Назар\Desktop\мережеве\ChatWPF\Client\bin\Debug\Client.exe.config
+C:\Users\Назар\Desktop\мережеве\ChatWPF\Client\obj\Debug\Client.exe
+C:\Users\Назар\Desktop\мережеве\ChatWPF\Client\obj\Debug\Client.pdb

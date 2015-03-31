@@ -1,0 +1,42 @@
+C:\Users\Denis\Desktop\SocketChat\SocketChat\bin\Debug\SocketChat.exe.config
+C:\Users\Denis\Desktop\SocketChat\SocketChat\bin\Debug\SocketChat.exe
+C:\Users\Denis\Desktop\SocketChat\SocketChat\bin\Debug\SocketChat.pdb
+C:\Users\Denis\Desktop\SocketChat\SocketChat\obj\Debug\SocketChat.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\SocketChat\SocketChat\obj\Debug\SocketChat.Form1.resources
+C:\Users\Denis\Desktop\SocketChat\SocketChat\obj\Debug\SocketChat.Properties.Resources.resources
+C:\Users\Denis\Desktop\SocketChat\SocketChat\obj\Debug\SocketChat.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\SocketChat\SocketChat\obj\Debug\SocketChat.exe
+C:\Users\Denis\Desktop\SocketChat\SocketChat\obj\Debug\SocketChat.pdb
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat\SocketChat\bin\Debug\SocketChat.exe.config
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat\SocketChat\obj\Debug\SocketChat.exe
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat\SocketChat\obj\Debug\SocketChat.pdb
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat\SocketChat\obj\Debug\SocketChat.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat\SocketChat\obj\Debug\SocketChat.MainForm.resources
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat\SocketChat\obj\Debug\SocketChat.Properties.Resources.resources
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat\SocketChat\obj\Debug\SocketChat.csproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat\SocketChat\bin\Debug\SocketChat.exe
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat\SocketChat\bin\Debug\SocketChat.pdb
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\bin\Debug\SocketChat.exe.config
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\obj\Debug\SocketChat.exe
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\obj\Debug\SocketChat.pdb
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\obj\Debug\SocketChat.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\obj\Debug\SocketChat.Properties.Resources.resources
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\obj\Debug\SocketChat.csproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\bin\Debug\SocketChat.exe
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\bin\Debug\SocketChat.pdb
+D:\Dropbox\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\obj\Debug\SocketChat.RichTextBoxExtensions.resources
+D:\Cloud\Dropbox - Personal\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\bin\Debug\SocketChat.exe.config
+D:\Cloud\Dropbox - Personal\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\obj\Debug\SocketChat.exe
+D:\Cloud\Dropbox - Personal\Dropbox\Комп'ютерна академія ШАГ\Мережеве програмування\Урок 1\ToSort\SocketChat v2\SocketChat\obj\Debug\SocketChat.pdb
+C:\Users\Назар\Desktop\socketchat\SocketChat\bin\Debug\SocketChat.exe.config
+C:\Users\Назар\Desktop\socketchat\SocketChat\obj\Debug\SocketChat.exe
+C:\Users\Назар\Desktop\socketchat\SocketChat\obj\Debug\SocketChat.pdb
+C:\Users\Назар\Desktop\socketchat\SocketChat\bin\Debug\SocketChat.exe
+C:\Users\Назар\Desktop\socketchat\SocketChat\bin\Debug\SocketChat.pdb
+C:\Users\Назар\Desktop\socketchat\SocketChat\obj\Debug\SocketChat.csprojResolveAssemblyReference.cache
+C:\Users\Назар\Desktop\socketchat\SocketChat\obj\Debug\SocketChat.MainForm.resources
+C:\Users\Назар\Desktop\socketchat\SocketChat\obj\Debug\SocketChat.Properties.Resources.resources
+C:\Users\Назар\Desktop\socketchat\SocketChat\obj\Debug\SocketChat.csproj.GenerateResource.Cache
+C:\Users\Назар\Desktop\код\socketchat\SocketChat\bin\Debug\SocketChat.exe.config
+C:\Users\Назар\Desktop\код\socketchat\SocketChat\obj\Debug\SocketChat.exe
+C:\Users\Назар\Desktop\код\socketchat\SocketChat\obj\Debug\SocketChat.pdb
