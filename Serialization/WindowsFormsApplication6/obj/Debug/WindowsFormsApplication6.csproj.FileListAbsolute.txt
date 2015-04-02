@@ -7,3 +7,6 @@ c:\users\назар\documents\visual studio 2012\Projects\WindowsFormsApplicatio
 c:\users\назар\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
 c:\users\назар\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
 c:\users\назар\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Назар\Desktop\мережеве\Serialization\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Назар\Desktop\мережеве\Serialization\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Назар\Desktop\мережеве\Serialization\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
