@@ -12,10 +12,16 @@ namespace ConsoleApplication19
     {
         static void Main(string[] args)
         {
-            IPAddress addr = IPAddress.Parse("69.59.196.211");
+            IPAddress addr = IPAddress.Parse("87.240.188.250");
             IPHostEntry entry = Dns.GetHostEntry(addr);
             Console.WriteLine(entry.HostName);
-            Console.WriteLine(entry.Aliases);
+            string howtogeek = "vk.com";
+            IPAddress[] addresslist = Dns.GetHostAddresses(howtogeek);
+
+            foreach (IPAddress theaddress in addresslist)
+            {
+                Console.WriteLine(theaddress.ToString());
+            }
         }
     }
 }

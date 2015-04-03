@@ -4,3 +4,6 @@ c:\users\назар\documents\visual studio 2012\Projects\ConsoleApplication19\C
 c:\users\назар\documents\visual studio 2012\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.csprojResolveAssemblyReference.cache
 c:\users\назар\documents\visual studio 2012\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.exe
 c:\users\назар\documents\visual studio 2012\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.pdb
+C:\Users\Назар\Desktop\мережеве\webRequest\ConsoleApplication19\bin\Debug\ConsoleApplication19.exe.config
+C:\Users\Назар\Desktop\мережеве\webRequest\ConsoleApplication19\obj\Debug\ConsoleApplication19.exe
+C:\Users\Назар\Desktop\мережеве\webRequest\ConsoleApplication19\obj\Debug\ConsoleApplication19.pdb
